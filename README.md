@@ -1,2 +1,2 @@
 # chromeExtensioin
-A test chrome extension, as a part of learning JavaScript
+A test chrome extension, as a part of learning Chrome Extensions
